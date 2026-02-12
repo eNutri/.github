@@ -48,7 +48,7 @@ eNutri-PN combines the eNutri-FFQ with a personalised nutrition feature. Based o
 - Communications use HTTPS. Realtime Database security rules control access levels via the `profiles` node (participant vs researcher vs admin).
 - Daily database backups can be configured.
 
-**Academic publications**
+## Academic publications**
 
 Selected publications directly related to eNutri:
 
