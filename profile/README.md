@@ -57,3 +57,10 @@ Selected publications directly related to eNutri:
 - [Importance, motivation and confidence of eating healthily whilst at university and barriers UK students face to eating well at university](https://scholar.google.com/scholar?q=Importance%2C+motivation+and+confidence+of+eating+healthily+whilst+at+university+and+barriers+UK+students+face+to+eating+well+at+university) — E Kelly, M Weech, R Fallaize, RZ Franco, F Hwang, JA Lovegrove; Proceedings of the Nutrition Society 82 (OCE5), E347 (2023).
 - [Co-designing personalised nutrition advice with adults aged 65+ years: a user study of the eNutri web app](https://scholar.google.com/scholar?q=Co-designing+personalised+nutrition+advice+with+adults+aged+65%2B+years%3A+a+user+study+of+the+eNutri+web+app) — E Kelly, M Weech, R Fallaize, RZ Franco, F Hwang, JA Lovegrove; Proceedings of the Nutrition Society 80 (OCE5), E187 (2021).
 
+
+**Links and Contact us**
+
+- eNutri webpage: https://research.reading.ac.uk/enutri/
+- Research team email address: enutri@reading.ac.uk
+- Fairbrother Lecture 2018 — "Would you let your phone tell you what to eat?": https://www.youtube.com/watch?v=nIiB-w80hhM
+
