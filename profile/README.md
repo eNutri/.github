@@ -2,10 +2,6 @@
   <img width="600" height="250" src="https://github.com/eNutri/.github/blob/main/enutri_logo.png">
 </p>
 
-<p align="center">
-  <img width="600" height="250" src="https://github.com/eNutRi/.github/blob/main/enutri_logo.png">
-</p>
-
 # eNutri — Overview
 
 eNutri is a web app designed to (1) make dietary intake assessment easier (eNutri-FFQ), and (2) help people eat more healthily by providing personalised nutrition advice (eNutri-PN).
