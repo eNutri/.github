@@ -7,6 +7,17 @@
 
 eNutri is a web app designed to (1) make dietary intake assessment easier (eNutri-FFQ), and (2) help people eat more healthily by providing personalised nutrition advice (eNutri-PN).
 
+## Links and Contact us
+
+- eNutri webpage: https://research.reading.ac.uk/enutri/
+- Research team email address: enutri@reading.ac.uk
+- Fairbrother Lecture 2018 — "Would you let your phone tell you what to eat?": https://www.youtube.com/watch?v=nIiB-w80hhM
+- eNutri demo web app: https://enutri-demo.web.app/
+- [Roadmap and Sustainabilty](../roadmap.md) — eNutri roadmap and sustainability plans.
+- [How to Contribute](../HOW-TO-CONTRIBUTE.md) — Guide for developers and institutions to contribute to eNutri
+
+## eNutri features
+
 For dietary intake assessment, the eNutri-FFQ is an online graphical food frequency questionnaire (FFQ), with an extensive and up-to-date list of foods, drinks and supplements consumed in the UK. Food group and nutrient intakes are automatically calculated. The data are immediately available for download by the researcher, making dietary intake analysis faster and easier.
 
 eNutri-PN combines the eNutri-FFQ with a personalised nutrition feature. Based on a user’s questionnaire responses, the app automatically provides recommendations to the individual on what specific foods and drinks in their diet they should have more, or less, of to get closer to meeting healthy eating recommendations. The app also includes tips from qualified nutritionists and dietitians to help people make healthy dietary choices, explained in a way that is easy to understand and practical. The personalised healthy eating food-based advice is instantly available, helping to keep people engaged.
@@ -58,11 +69,4 @@ Selected publications directly related to eNutri:
 - [Co-designing personalised nutrition advice with adults aged 65+ years: a user study of the eNutri web app](https://scholar.google.com/scholar?q=Co-designing+personalised+nutrition+advice+with+adults+aged+65%2B+years%3A+a+user+study+of+the+eNutri+web+app) — E Kelly, M Weech, R Fallaize, RZ Franco, F Hwang, JA Lovegrove; Proceedings of the Nutrition Society 80 (OCE5), E187 (2021).
 
 
-**Links and Contact us**
-
-- eNutri webpage: https://research.reading.ac.uk/enutri/
-- Research team email address: enutri@reading.ac.uk
-- Fairbrother Lecture 2018 — "Would you let your phone tell you what to eat?": https://www.youtube.com/watch?v=nIiB-w80hhM
-- eNutri demo web app: https://enutri-demo.web.app/
-- [Roadmap and Sustainabilty](../roadmap.md) — eNutri roadmap and sustainability plans.
 
