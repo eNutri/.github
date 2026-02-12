@@ -63,4 +63,6 @@ Selected publications directly related to eNutri:
 - eNutri webpage: https://research.reading.ac.uk/enutri/
 - Research team email address: enutri@reading.ac.uk
 - Fairbrother Lecture 2018 — "Would you let your phone tell you what to eat?": https://www.youtube.com/watch?v=nIiB-w80hhM
+- eNutri demo web app: https://enutri-demo.web.app/
+- [Roadmap and Sustainabilty](../roadmap.md) — eNutri roadmap and sustainability plans.
 
