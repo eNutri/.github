@@ -14,7 +14,13 @@ eNutri is a web app designed to (1) make dietary intake assessment easier (eNutr
 - Fairbrother Lecture 2018 — "Would you let your phone tell you what to eat?": https://www.youtube.com/watch?v=nIiB-w80hhM
 - eNutri demo web app: https://enutri-demo.web.app/
 - [Roadmap and Sustainabilty](../roadmap.md) — eNutri roadmap and sustainability plans.
-- [How to Contribute](../CONTRIBUTING.md) — Guide for developers and institutions to contribute to eNutri
+ - [How to Contribute](../CONTRIBUTING.md) — Guide for developers and institutions to contribute to eNutri
+
+### Roadmap & Sustainability
+The eNutri roadmap describes the 9-month migration plan to Angular 21, feature priorities for researchers, and the sustainability and funding approach. It explains phase milestones, risk mitigations, and impact metrics. Read the full plan here: [Roadmap and Sustainability](../roadmap.md).
+
+### Contributing
+We welcome contributions from researchers, developers and institutions. The contribution guide explains how to report bugs, request features, submit pull requests, and contribute non-code assets (data, validations, documentation). See: [How to Contribute](../CONTRIBUTING.md).
 
 ## eNutri features
 
