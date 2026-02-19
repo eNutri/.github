@@ -14,7 +14,7 @@ eNutri is a web app designed to (1) make dietary intake assessment easier (eNutr
 - Fairbrother Lecture 2018 — "Would you let your phone tell you what to eat?": https://www.youtube.com/watch?v=nIiB-w80hhM
 - eNutri demo web app: https://enutri-demo.web.app/
 - [Roadmap and Sustainabilty](../roadmap.md) — eNutri roadmap and sustainability plans.
-- [How to Contribute](../HOW-TO-CONTRIBUTE.md) — Guide for developers and institutions to contribute to eNutri
+- [How to Contribute](../CONTRIBUTING.md) — Guide for developers and institutions to contribute to eNutri
 
 ## eNutri features
 
